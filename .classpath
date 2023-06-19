@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Control NetBeans/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="Control NetBeans/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Control NetBeans/jaco-mp3-player-0.9.4.jar"/>
+	<classpathentry kind="lib" path="Control NetBeans/javax.mail.jar"/>
+	<classpathentry kind="lib" path="Control NetBeans/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="Control NetBeans/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="Control NetBeans/mssql-jdbc-8.2.2.jre11.jar"/>
+	<classpathentry kind="lib" path="Control NetBeans/RojeruSan.parte1.jar"/>
+	<classpathentry kind="lib" path="Control NetBeans/RSCalendar.jar"/>
+	<classpathentry kind="lib" path="Control NetBeans/RSFoto_v1.0.jar"/>
+	<classpathentry kind="lib" path="Control NetBeans/TimingFramework-0.55.jar"/>
+	<classpathentry kind="lib" path="jaco-mp3-player-0.9.4.jar"/>
+	<classpathentry kind="lib" path="mssql-jdbc-8.2.2.jre11.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/fpt/Control NetBeans/TaiNguyen/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/fpt/Control NetBeans/TaiNguyen/junit-4.12.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
